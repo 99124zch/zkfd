@@ -1,1 +1,3 @@
 
+要求不能用file_operations，所以ioctl不能用
+我使用的netlink让内核和应用层通信
